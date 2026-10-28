@@ -1,0 +1,15 @@
+# Secrets and local runtime data
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
+
+# Local backups/logs
+*.log
+*.bak
